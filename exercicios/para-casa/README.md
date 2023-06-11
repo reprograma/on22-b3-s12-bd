@@ -3,7 +3,7 @@
 ## Banco de Dados
 
 Oie bonitas, vamos lá:
-- Entre no arquivo do README, dentro da pasta principal (on19-tet-s12-bd) 
+- Entre no arquivo do README, dentro da pasta principal (on22-b3-s12-bd) 
 - E responda COM SUAS PALAVRAS o que você entendeu da aula de sabado:
   * pode usar girias, pajuba, aleatorias, trazer imagens... você escolhe
   * pode ser sintese, textão, mapa conceitual... 
