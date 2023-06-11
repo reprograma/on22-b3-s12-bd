@@ -25,7 +25,7 @@ const addNewBook = async (req, res) => {
       launchYear,
       available,
       publisher,
-      gender,
+      genre,
       writer,
       pages
     } = req.body;
@@ -35,7 +35,7 @@ const addNewBook = async (req, res) => {
       launchYear,
       available,
       publisher,
-      gender,
+      genre,
       writer,
       pages
     });
@@ -56,7 +56,7 @@ const updateBookById = async (req, res) => {
       launchYear,
       available,
       publisher,
-      gender,
+      genre,
       writer,
       pages,
     } = req.body;
@@ -67,7 +67,7 @@ const updateBookById = async (req, res) => {
         launchYear,
         available,
         publisher,
-        gender,
+        genre,
         writer,
         pages,
       }
