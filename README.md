@@ -267,3 +267,13 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+Oie, Profe! Começando, será que é pra escrever aqui mesmo? rsrsrs... Mas bora lá.
+
+Da última aula, comecei entendendo a importãncia de um banco de dados. É história pura. Muito me interessa essa temática, pois tenho interesse em trabalhar com análise de dados. A priori, achei mais simples a utilização dessa arquitetura do BD do que no json. Me parece que fica mais otimizado utilizar/informar apenas o tipo do dado utilizado e ir depois alimentando essa base. E o exemplo utilizado, de livros, foi bem didático e útil para mim, pois estou fazendo o registro dos meus livros e do meu filho.
+
+Não consegui visualizar bem, na minha mente, o tipo NOSQL. A organização em tabelas me parece bem lógico, por isso não entendo muito bem como seria diferente disso.
+
+Fiquei confusa com o MongoDB. Entendi sua utilidade, mas os caminhos de cadastros fois bem confuso. No mais, em relação às aulas anteriores, ainda tenho dificuldade com a Promises e o async.
+
+Mas tamo aí, continuando a nadar. 
