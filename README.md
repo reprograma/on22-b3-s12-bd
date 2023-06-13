@@ -267,3 +267,11 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+
+Oiii prof maravilhosaaaa!!
+
+Então, eu consegui compreender sobre Banco de Dados que é coleções organizadas de informações, tipo uma biblioteca. Entendi que SQL é uma linguagem de programação usada por todos os bancos de dados, para consultar, manipular e definir dados. São organizados com linhas e colunas já o
+NoSQL, não necessariamente se estrutura, decide se que ser organizado ou não "não apenas SQL" tem horas que pode se relacionar e tem horas que pode não se relacionar. MongoDB e Schema tudo ok também.
+
+O que não entendi muito foi porque coloca {id} quando vai deletar algo. useNewUrlParser e useUnifiedTopology, também não consegui fixar direito. Promises e async e await eu entendo a sintax, mas ainda não sei bem como usá-los, principalmente o async e await. De resto está tudo ok!!
