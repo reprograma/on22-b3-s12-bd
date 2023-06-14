@@ -267,3 +267,17 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+
+## Banco de dados:
+
+* Entendi que `Banco de Dados` são várias informações ou dados estruturados organizados em uma coleção!!
+* Sobre o `SQL` e o `NoSQL` entendi que no SQL os dados são armazenados em tabelas e que é um modelo relacional,
+ já no NoSQL que ele é um modelo não relacional e não se aplica o Schema.
+* MongoDB é um banco de dados orientado a documentos que possui código aberto e foi projetado para armazenar uma grande escala de dados.
+
+*Dúvidas* :
+* Porimises;
+* Queria entender um pouco mais sobre quando usar body, params e query porque ainda bugo um pouco.;
+* Quando usar o `.json` e o `.send`;
+
