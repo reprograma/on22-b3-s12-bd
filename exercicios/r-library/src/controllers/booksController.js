@@ -25,7 +25,7 @@ const addNewBook = async (req, res) => {
       launchYear,
       available,
       publisher,
-      gender,
+      genre,
       writer,
       pages
     } = req.body;
@@ -35,7 +35,7 @@ const addNewBook = async (req, res) => {
       launchYear,
       available,
       publisher,
-      gender,
+      genre,
       writer,
       pages
     });
@@ -56,7 +56,7 @@ const updateBookById = async (req, res) => {
       launchYear,
       available,
       publisher,
-      gender,
+      genre,
       writer,
       pages,
     } = req.body;
@@ -67,7 +67,7 @@ const updateBookById = async (req, res) => {
         launchYear,
         available,
         publisher,
-        gender,
+        genre,
         writer,
         pages,
       }
@@ -82,7 +82,7 @@ const updateBookById = async (req, res) => {
 const deleteBook = async (req, res) => {
   try {
     const { id } = req.params;
-    const findBooks = await BooksModel.findById(id);
+    const findBooks = await BooksModel.findByIdAndDelete(id);
 
     if (findBooks == null) {
       return res.status(404).json({ message: `Book with id ${id} not found` })
