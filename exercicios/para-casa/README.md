@@ -1,18 +1,19 @@
-# Exercício de Casa 🏠 
+# Exercício de Casa 🏠
 
 ## Banco de Dados
 
 Oie bonitas, vamos lá:
-- Entre no arquivo do README, dentro da pasta principal (on19-tet-s12-bd) 
+
+- Entre no arquivo do README, dentro da pasta principal (on19-tet-s12-bd)
 - E responda COM SUAS PALAVRAS o que você entendeu da aula de sabado:
-  * pode usar girias, pajuba, aleatorias, trazer imagens... você escolhe
-  * pode ser sintese, textão, mapa conceitual... 
-  * me explique principalmente o que vocêentendeu de Banco de Dados, SQL, NoSQL e de Mongo
-  * caso queira pode me falar tambem onde teve mais duvidas e qual parte gostariam que eu revesse na semana 13  
-  obs: se quiser adicione um campo de observação sobre tematicas das ultimas semanas (de outras aulas) que voce teve mais dificuldade. Vamos revisa-las.
 
-  na quarta faremos uma atividade oral onde irei fazer perguntas para turma, nem todas precisam participar, mas eu adoraria se vocês participassem. POR FAVOR 
+  - pode usar girias, pajuba, aleatorias, trazer imagens... você escolhe
+  - pode ser sintese, textão, mapa conceitual...
+  - me explique principalmente o que você entendeu de Banco de Dados, SQL, NoSQL e de Mongo
+  - caso queira pode me falar tambem onde teve mais duvidas e qual parte gostariam que eu revesse na semana 13  
+    obs: se quiser adicione um campo de observação sobre tematicas das ultimas semanas (de outras aulas) que voce teve mais dificuldade. Vamos revisa-las.
 
+  na quarta faremos uma atividade oral onde irei fazer perguntas para turma, nem todas precisam participar, mas eu adoraria se vocês participassem. POR FAVOR
 
 ---
 
