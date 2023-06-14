@@ -281,7 +281,7 @@ __________________________________________
   ____________________________________
 
  Um banco de dados é uma coleção organizada de informações guardadas eletronicamente que pode ser relacional ou não,ou seja SQL/NoSQL. 
- `SQL` é uma linguagem usada pela maioria dos bancos de dados relacionais para consultar, manipular, definir dados e fornecer controle de acesso.
+ <p> o SQL é uma linguagem usada pela maioria dos bancos de dados relacionais para consultar, manipular, definir dados e fornecer controle de acesso.</p>
  Da mesma forma que aplicamos a resolução de conflito em uma situação 
  ```
  - exemplo
