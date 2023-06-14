@@ -285,9 +285,9 @@ __________________________________________
  Da mesma forma que aplicamos a resolução de conflito em uma situação 
  ```
  - exemplo
-    * *primeiro* as pessoas tem que ter um relação,
-    * *segundo* definir o problema, 
-    * *terceiro* avaliar se a solução etende minimamente as pessoas envolvidas e por fim realizar.
+     *primeiro* as pessoas tem que ter um relação,
+     *segundo* definir o problema, 
+     *terceiro* avaliar se a solução etende minimamente as pessoas envolvidas e por fim realizar.
  ```
 
  `NoSQL` a informação pode ser consultadas mas elas não precisam se relacionar o que faz ser mais independente. Pode armazenar de forma organizada e não ter relação.
