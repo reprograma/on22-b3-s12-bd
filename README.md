@@ -267,3 +267,40 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+---------------------------------------------------------------------------
+
+ ## HOMEWORK 
+__________________________________________
+ ### BANCO DE DADOS TUDO PODE ACONTECER!!
+__________________________________________
+  Na aula da semana 12 descobrimos que há decadas os seres humanos tem a necessidade de guardar informações importantes, desde a época onde os homidideos rabiscavam nas cavernas o que acontecia no seu dia, como hoje 2023 que armezenamos nossas informações em servidores. Essa necessidade de armazenar informações foi crescendo ao longo que o homem desenvolveu técnicas de escrita e leitura, no Egito Antigo foi o papiro, seculos depois foi o papel, essas informações fisicas são muito delicadas e podem extraviar ao longo do tempo, e com o avanço tecnologico tudo isso mudou.
+  ___________________________________
+
+  ### Quais padrões podemos utilizar?
+  ____________________________________
+
+ Um banco de dados é uma coleção organizada de informações guardadas eletronicamente que pode ser relacional ou não,ou seja SQL/NoSQL. 
+ `SQL` é uma linguagem usada pela maioria dos bancos de dados relacionais para consultar, manipular, definir dados e fornecer controle de acesso.
+ Da mesma forma que aplicamos a resolução de conflito em uma situação 
+ ```
+ - exemplo
+     primeiro as pessoas tem que ter um relação,
+     segundo definir o problema, 
+     terceiro avaliar se a solução etende minimamente as pessoas envolvidas e por fim realizar.
+ ```
+
+ `NoSQL` a informação pode ser consultadas mas elas não precisam se relacionar o que faz ser mais independente. Pode armazenar de forma organizada e não ter relação.
+ ________________________________________________________________________________________________
+
+ ### MONGO
+_________________________________________________________________________________________________
+
+ Permite armazenar dados como objetos no `JSON`, lida com um grande volume de dados que podem não se relacionar (não se relaciona com metodo de tabelas). Permite que a sua coleção use recursos e conecte em API's diferentes. usando schremas pra moldar cada armazenamento de informação, informando que tipo de dado será usado que podem ser string, boolean, number.
+
+_________________________________________________________________________________________________
+
+até o momento é isso.
+
+<sub>apanhei pra mudar a senha no mongoDB, mas deu certo </sub>
+
