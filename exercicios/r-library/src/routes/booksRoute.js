@@ -12,5 +12,5 @@ router.get("/:id", controller.getBookById);
 router.post("/new", controller.addNewBook);
 router.patch("/:id", controller.updateBookById);
 router.delete("/:id", controller.deleteBook);
-
+//delete/:id
 module.exports = router; //exporto as rotas
