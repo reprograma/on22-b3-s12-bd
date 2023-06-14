@@ -18,4 +18,6 @@ Também fizemos instalações de mais umas bibliotecas no nosso VSCODE, como o M
 
 Também vimos a questão da Scheema, que é basicamente um molde para criarmos nossos objetos no banco de dados, onde há as diferenciações do tipo de informação, seja ela `String`, `Number`, `Boolean`, `Date`, dentre outras.
 
-Temos o Model, onde nele realizamos as operações CRUD (create, read, update, delete)
+Temos o Model, onde nele realizamos as operações CRUD (create, read, update, delete).
+
+Acredito que resumindo tudo seja apenas isso, o texto pode ter ficado bem curtinho, mas quando o assunto é resumir assunto, eu acabo fazendo o resumo do resumo kkkkkkk (quantas vezes eu falei resumo nessa frase?).
