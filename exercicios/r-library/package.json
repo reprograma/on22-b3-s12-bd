@@ -4,10 +4,11 @@
   "description": "- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.\r Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.\r Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. \r ---",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "nearlyerika",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -17,5 +18,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearlyerika/on22-b3-s12-bd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nearlyerika/on22-b3-s12-bd/issues"
+  },
+  "homepage": "https://github.com/nearlyerika/on22-b3-s12-bd#readme"
 }

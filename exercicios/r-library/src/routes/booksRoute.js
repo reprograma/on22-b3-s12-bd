@@ -7,10 +7,14 @@ const router = express.Router();
 
 // router. metodo http (rota, funcao)
 
-router.get("/all", controller.getAllBooks);
-router.get("/:id", controller.getBookById);
-router.post("/new", controller.addNewBook);
-router.patch("/:id", controller.updateBookById);
-router.delete("/:id", controller.deleteBook);
+router
+  .post("/new", controller.addNewBook);
+router
+  .get("/all", controller.getAllBooks);
+router
+  .get("/:id", controller.getBookById)
+  .patch('/:id', controller.updateBookById)
+  .delete('/:id', controller.deleteBook);
+
 
 module.exports = router; //exporto as rotas
