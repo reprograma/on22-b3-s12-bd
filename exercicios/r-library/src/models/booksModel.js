@@ -4,14 +4,14 @@ const BookSchema = new mongoose.Schema(
     {
         _id: {
             type: mongoose.Schema.Types.ObjectId,
-            default: mongoose.Types.ObjectId
+            default: () => new mongoose.Types.ObjectId()
         },
         title: {
             type: String,
             required: true,
             unique: true
         },
-        launcheYear: {
+        launchYear: {
             type: Number,
             required: true,
         },
