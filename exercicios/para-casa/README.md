@@ -7,7 +7,7 @@ Oie bonitas, vamos lá:
 - E responda COM SUAS PALAVRAS o que você entendeu da aula de sabado:
   * pode usar girias, pajuba, aleatorias, trazer imagens... você escolhe
   * pode ser sintese, textão, mapa conceitual... 
-  * me explique principalmente o que vocêentendeu de Banco de Dados, SQL, NoSQL e de Mongo
+  * me explique principalmente o que você entendeu de Banco de Dados, SQL, NoSQL e de Mongo
   * caso queira pode me falar tambem onde teve mais duvidas e qual parte gostariam que eu revesse na semana 13  
   obs: se quiser adicione um campo de observação sobre tematicas das ultimas semanas (de outras aulas) que voce teve mais dificuldade. Vamos revisa-las.
 
