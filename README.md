@@ -267,3 +267,24 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+
+---
+#RESUMO INTRODUÇÃO AO BANCO DE DADOS
+
+  ##Banco de dados
+    Conjunto integrado de elementos de dados agrupados de forma organizada, estruturada e lógica, armazenados no sistema de computador de forma eletrônica. Dessa forma, os dados que antes eram armazenados de forma física, passaram a ser armazenados na nuvem. Exemplo: Antigamente, as fichas de pacientes em um hospital eram arquivadas em grandes salas destinadas a armazenar esses arquivos. Agora eles são armazenados eletronicamente no sistema de nuvem escolhido por cada hospital, e podem ser acessadas mais facilmente e ficam mais seguros.
+
+  ##SQL(Linguagem de consulta estruturada)
+    É uma linguagem de programação usada exclusivamente nos banco de dados relacionais para consultar, manipular e definir dados.
+
+  ##NoSQL(Banco de dados não relacionais)
+    Significa que os dados não necessariamente precisam de uma linguagem estruturada para serem manipulados ou estarem relacionados entre si, ou seja, os dados podem estar relacionados entre si ou não. É diferente de um banco de dados relacional porque não exige que os dados sigam um formato específico. Isso é útil para armazenar e manipular dados não estruturados ou semiestruturados. 
+
+  ##MongoDB
+    É um servidor de banco de dados do tipo NoSQL, orientado a documentos(todas as informações importantes em um único documento) e de código aberto (código-fonte passível a manipulação por qualquer pessoa), que armazena uma grande quantidade de dados.
+![A imagem abaixo exemplifica a diferença entre SQL e NoSQL]
+(https://lh5.googleusercontent.com/J9hVByYUGVWcBWO9JvnhXI_xN8QN6axnbRy7L3YljomjHUhpQLnx-xqACHjsGMuxxh7sXYysOSlBGJ2thivYABbMdxzy3SJjT87EY6i7Nu2ZzN4jHwuevoJADMt8RUXakZqYnqef)
+
+
+---
