@@ -13,7 +13,22 @@ Oie bonitas, vamos lá:
 
   na quarta faremos uma atividade oral onde irei fazer perguntas para turma, nem todas precisam participar, mas eu adoraria se vocês participassem. POR FAVOR 
 
+---
+### o que é um banco de dados? 
 
+é uma coleção organizada de dados, é usado pra guardar informações tipo uma biblioteca, sabe?
+
+### SQL, NoSQL e mongo
+
+profa, tenho que começar me desculpando pois eu realmente achei que tinha entendido, na hora eu achei que tinha entendido, ms agora escrevendo vejo que não entendi
+
+qual a principal diferença entre SQL e NoSQL? sei que o SQL é uma estrutura mais definida, pelas minhas pesquisas por fora, pelo youtube e google vi que é uma linguagem de programação pra consultar manipular e definir dados tipo o crud ms tbm tem um negocio como se fosse com tabelas etc ms n consegui entender nada!! ai fui procurar sobre NoSQL e ai vi que é como tu falou, é pra lidar com grandes quantidades de dados e não é estruturado 
+
+mongoDB: é um banco de dados nosql que utiliza documentos no formato de uma representação binaria do json, até ai ok, ms n entendi tipo, é onde a gente armazena coisas? tipo armazena nele e no pc? ou ele muda diretamente pelo mongo e vs code?? 
+
+profa me desculpa ta parecendo tão burra, é que eu realmente n entendi, achei q tinha entendido ms vi que não entendi. Também não entendi alguns termos da aula de segunda, ficaram ???? na minha cabeça tipo o compass, shell e robo3t e alguns termos tecnos que foi passado na segunda, vc poderia revisar e tentar explicar do seu jeitinho maravilhoso (com analogias e memes) SQL e NoSQL? e rever o env? eu entendi ele e pra que serve, só me confundo um pouco no passo a passo
+
+enfim, desculpa profa n me demita 🙏
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
