@@ -267,3 +267,23 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+## Para Casa - Resolução:
+
+
+Querida professora mais linda da Reprograma, brincadeiras a parte, vamos lá! Talvez eu tenha mais perguntas do que afirmações. (Chorany)
+
+Pelo que entendi, o Banco de Dados é onde nós armazanamos informações tipo numa nuvem. Podemos atualizar elas, deletar, cadastrar, consultar, sem ocupar espaço, papel, etc. Fica tudo na nuvem.
+O Mongo seria esse banco de dados? Entendi mas as vezes fico confusa quando paro para pensar numa definição mesmo. Pois os dados ficam no meu computador e nele, e se eu apagar da minha maquina depois de salvo, por algum problema, ficaria nele ainda assim?
+
+Não compreendi muito bem e acredito que será meu desafio dessa materia, o que é sql e nosql, talvez o nosql seja mais simples, ele me passa a ideia de ser mais liberal com relação a escrita e ao trabalho com ele. Comparado a linguagem de programação é como se ele fosse o JavaScript? Na questão de ser mais permisivo e menos tipado?
+
+Se o Sql é uma linguagem de programação, fica a parte de todas as outras? Se eu for programar ela sem ser em JavaScript vai ser diferente do que a gente está vendo no curso ou não?
+Entendi que Schema, como nome já diz, é um esquema aonde organizamos os dados do nosso arquivo, tipo, por exemplo o Json de livros com os dados daquele livro. Uma dúvida sobre isso é, o Schema apresentado no slide de segunda feira tá em JavaScript, se eu for fazer ele, sei lá, em Java, ele vai ser organizado da mesma forma ou diferente?
+Fiquei confusa com os Types em geral. O que seriam Getters e setters?
+Poderiamos ver mais exemplos no código de Ref e Populate?
+Mensagem de erro, entendi de boa, e o new (que é usado sempre que vamos por exemplo cadastrar uma informação ou um item novo), consegui compreender, acho que não tem diferença com os que vemos anteriormente ao longo do curso.
+Compreendi que o valor Null(nulo) ainda nao existe mas pode , a qualquer momento, ser preenchido. Usamos o find para encontrar alguma coisa, que vai ser especificado no codigo o que a gente quer encontrar, agora ao invés de usamos o find() teremos as outras palavras reservadas próprias do banco de dados junto, para encontrar o id, por exemplo.
+A database é a nossa base de dados, aonde tudo fica armazenado.
+usenewurlparser e useunifiedtopology não ficou muito claro para mim.
+Async e Await estão me preocupando um pouco, se eu precisasse aplicar no código, hoje, junto com uma promisse eu não iria conseguir.
