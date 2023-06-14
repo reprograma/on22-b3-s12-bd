@@ -298,7 +298,7 @@ __________________________________________
  ### MONGO
 _________________________________________________________________________________________________
 
- Permite armazenar dados como objetos no `JSON`, lida com um grande volume de dados que podem não se relacionar (não se relaciona com metodo de tabelas). Permite que a sua coleção use recursos e conecte em API's diferentes. usando schremas pra moldar cada armazenamento de informação, informando que tipo de dado será usado que podem ser string, boolean, number.
+ Permite armazenar dados como objetos no `JSON`, lida com um grande volume de dados que podem não se relacionar (não se relaciona com metodo de tabelas). Permite que a sua coleção use recursos e conecte em `API's` diferentes. usando schremas pra moldar cada armazenamento de informação, informando que tipo de dado será usado que podem ser `string`, `boolean`, `number`.
 
 _________________________________________________________________________________________________
 
