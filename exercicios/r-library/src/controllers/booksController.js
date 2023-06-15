@@ -87,7 +87,7 @@ const deleteBook = async (req, res) => {
     if (findBooks == null) {
       return res.status(404).json({ message: `Book with id ${id} not found` })
     };
-    await findBooks.remove();
+    await findBooks.deleteOne();
     res.status(200).json({ message: `Book with id ${id} was successfully deleted` });
   } catch (error) {
     res.status(500).json({ message: error.message });
