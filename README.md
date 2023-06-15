@@ -2,34 +2,52 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Introdução a Banco de Dados
+# ATIVIDADE DE CASA
 
-Turma Online 22 - Todas em Tech  | Back-end | Semana 12 | 2022 | Gaia Maria
+Turma On22-B3-S12-BD | Back-end | Semana 12 | 2023 | Jucilene Bratti 
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
+Resumo do que eu entendi!!!!
 
+<h3 align="center">
+  <img src="assets/bandoDeDados.png" alt="meme bando de dados" width="100">
+</h3>
 
-##   Apresentação
+### Bando de Dados:
+É uma coleção (uma reunião organizada de objetos) de dados (informações) inter-relacionadas, ou seja, é um conjunto de informações agrupadas que se relacionam e tratam de um mesmo assunto. Uma biblioteca digital, ela é fisica, mas pode ser acessada e manipulada em outros locais. 
 
- Olá, meu nome é Gaia Maria. Sou uma travesti graduada em História Licenciatura (UNESP) e graduanda em Análise e Desenvolvimento de Sistemas (Faculdade Descomplica). Sou uma Bruxa devota a Hecate, ocultista e pagã. Tambem sou uma pessoa neurodiversa, gamer, viciada em RPG e desenvolvedora.
+Para manipular as informações do banco de dados e faze-lo interagir com o usuário é necessário um Software com recursos para gerenciar o banco de dados - Sistema de gerenciamento de banco de dados (DBMS), tais como: SQL, NoSQL. Seu objetivo principal é tornar os dados independente da aplicação, a estratégia de acesso e a forma de armazenamento.
 
-###  👩🏽‍🏫 recadinhos 
-    - Bebam água meninas
-    - Qualquer pergunta é válida, principalmente aquela que a gente pensa que não faz sentido.
-    - Deixe a camera ligada
+<h3 align="center">
+  <img src="assets/sqlEMongo.png" alt="meme bando de dados" width="100">
+</h3>
+
+###   SQL:
+
+ É a linguagem padrão para trabalhar com banco de dados relacionais, ou seja, dados que tem relação entre si. Acredito que um banco de dados relacional seja como um excel, onde o banco é uma planilha (excel) , e cada aba um tabela que contém suas colunas e linhas. Ela é uma linguagem de consulta (query) e traz resultados de acordo com a o que estou procurando. é organizada, tem regras. Seus principais módulos são MySQL e o Postgre. Aparentemente é mais intuitivo e fácil de entender as maneiras de armazenar as informações.
+
+###  NoSQL: 
+
+ Se refere a qualquer banco de dados não necessáriamente relacional, mas pode ser. Ele armazena os dados de forma diferente do relacional, eles não estão divididos entre tabelas, podem estar em uma unica estrutura de dados. Seus principais módulos é: MongoDB
     
-### 📑 Conteúdo da Aula
+### MongoDB:
+ É um banco de dados NoSQL orientado a documentos, utiliza JavaScript como interface para manipulação de dados e as informações ficam guardadas em documentos JSON, Chaves, valores, Schemas (é um Json com informação do tipo de dados que será informado).
 
-    - Banco de Dados
-    - Introdução a MongoDB
-    - MongoCompass, Shell e Robo3T
-    - Projeto com mongo
 
-## 📑 Arquitetura do Projeto (ao fim)
+### Compass, Shell e Robo3t:
+
+São ferramentas para consultar, e analizar dos dados armazenados no mongoDB. Sendo o Compass mais visual, o Shell usa o linha de comando do terminal para MongoDB permitindo administrar, monitorar uma instância (tipo: um computador com várias sistemas operacionais). 
+
+<h3 align="center">
+  <img src="assets/cachorrinhos_fofos.png" alt="meme bando de dados" width="200">
+</h3>
+
+E aqui eu finalizo meu Resumo da aula de sábado. Para mim isso fez sentido eu acho, vou ter certeza na hora de fazer o projeto guiado!
+
+-----
+### Daqui continua o Redme original da Gaia, que está lindo e fiquei receosa de apagar, para que eu possa no futuro usar como referencia. 
+___
+
+## Arquitetura do Projeto (Confuso ainda)
 ```
 exercicios  
 ├── r-library          
@@ -58,6 +76,7 @@ exercicios
     - Nodemom
 
 ### 💻 Dependências de ambiente
+ *npm init -y (para começar)
 - **Node** -> *npm i -D nodemon* 
 - **express/cors** -> *npm i express cors --save*
 - **mongoDB** -> *npm i mongoose*
