@@ -1,10 +1,12 @@
+const DB_MONGO = process.env.DB_MONGO
+
 const mongoose = require("mongoose");
 
 const connect = async () => {
     try {
 
         mongoose.connect(
-            "mongodb+srv://tissianass:14t10s82s@cluster0.fxcf9on.mongodb.net/rlibrary",
+            DB_MONGO,
             {
                 useNewUrlParser: true,
                 useUnifiedTopology: true,

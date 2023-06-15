@@ -1,4 +1,4 @@
-
+require("dotenv").config()
 const express = require("express"); // importo o express
 const cors = require("cors"); // importo o cors
 
