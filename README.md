@@ -267,3 +267,22 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+
+# Exercicio para casa
+
+## O que é Banco de Dados?
+
+Básicamente, banco de dados é um banco onde guardamos e organizamos dados/informações. Por exemplo, se eu tenho uma loja e quero que todos os meus produtos fiquem armazenados e que sejam separados por preço, podemos fazer essa organização no banco, inclisive é importante para ter informações sobre meus produtos. Exemplo: Se eu quero saber quantas roupas roxas tem no meu estoque ou qual o produto mais vendi nesse mês. O banco de dados é importante não só pra guardar informações, mas também para essa análise. 
+
+## O que é SQL?
+
+SQL é uma linguagem que o banco de dados entende. Por exemplo, se eu quero saber a quantidade de roupas roxas do meu estoque que está no banco de dados, usamos a linguagem SQL para nos comunicar com o banco e ele trás essa informação pra nós, meros mortais de uma forma que consiguimos entender e de forma organizada.
+
+## O que é NoSql?
+
+No NoSql podemos guardar todas as informações juntas, sem "organização". Por exemplo, é como meu quarda-roupas, eu quardo minhas roupas de forma "desorganizada" colocando calça, blusa e vestido juntos no mesmo vão do guarda-roupas e quando vou buscar um vestido, eu procuro entre todas as peças de roupas que estão juntas com o vestido. Ele não precisa que a gente deixe cada tipo de peça de roupa em uma gaveta, podemos deixar todo tipo de roupas em um só vão e quando precisamos buscar alguma peça pra usar, temos que procurar entre todas as outras que estão lá também. 
+
+## O que é o Mongo?
+
+O MongoDb permite que guardemos nossas informações de forma bem flexível, podemos colocar todas as peças de roupas juntas e pedir pra o mongo pegar apenas o vestido verde, ele é tão inteligente que mesmo com tudo misturado, consegue pegar essa peça de roupas expecifica. Também permite que a gente faça modificações nas informações.
