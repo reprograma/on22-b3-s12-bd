@@ -3,7 +3,7 @@
 ## Banco de Dados
 
 Oie bonitas, vamos lá:
-- Entre no arquivo do README, dentro da pasta principal (on19-tet-s12-bd) 
+- Entre no arquivo do README, dentro da pasta principal (on2-b3-s12-bd) 
 - E responda COM SUAS PALAVRAS o que você entendeu da aula de sabado:
   * pode usar girias, pajuba, aleatorias, trazer imagens... você escolhe
   * pode ser sintese, textão, mapa conceitual... 
@@ -12,7 +12,13 @@ Oie bonitas, vamos lá:
   obs: se quiser adicione um campo de observação sobre tematicas das ultimas semanas (de outras aulas) que voce teve mais dificuldade. Vamos revisa-las.
 
   na quarta faremos uma atividade oral onde irei fazer perguntas para turma, nem todas precisam participar, mas eu adoraria se vocês participassem. POR FAVOR 
+---
 
+- **Banco de dados**: Arquivos na qual estão armazenados informações.
+- **Sistema de gestão de banco de dados**: Aplicação na qual gerencia o banco de dados, sendo capaz de fazer as operações presentes no CRUD.
+- **SQL**: Uma linguagem de formatação para bancos de dados estruturados, seguindo o modelo relacional, na qual conecta as tabelas de entidades através de um relacionamento.
+- **NoSQL**: Sigla para *Not Only Structured Query Language*, significando que ele pode ser estruturado e adequado para um banco relacional, mas não somente, podendo ser híbrido ou totalmente não relacional(?).
+- **MongoDB**: Um app/serviço NoSQL. Não tenho certeza sobre qual suas vantagens ou desvantagens, ou como usar/configurar no código.
 
 ---
 
