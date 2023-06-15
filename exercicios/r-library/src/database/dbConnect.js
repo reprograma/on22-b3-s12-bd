@@ -1,9 +1,10 @@
+const DB_MONGO = process.env.DB_MONGO
 const mongoose = require('mongoose')
 
 const connect = async () => {  //Fazendo a conexão com o banco
     try {
         mongoose.connect(
-            'mongodb+srv://anjinhaoliveira:NaYkemQL0AKyLtr8@cluster0.wcz6rzc.mongodb.net/rlibrary',
+            DB_MONGO,
             {
                 useNewUrlParser: true,
                 useUnifiedTopology: true
