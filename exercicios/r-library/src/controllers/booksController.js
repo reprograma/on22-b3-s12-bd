@@ -20,29 +20,10 @@ const getBookById = async (req, res) => {
 
 const addNewBook = async (req, res) => {
   try {
-    const {
-      title,
-      launchYear,
-      available,
-      publisher,
-      gender,
-      writer,
-      pages
-    } = req.body;
-
-    const newBook = new BooksModel({
-      title,
-      launchYear,
-      available,
-      publisher,
-      gender,
-      writer,
-      pages
-    });
+    const {title, launchYear, available, publisher, gender, writer, pages} = req.body;
+    const newBook = new BooksModel({title, launchYear, available, publisher,gender, writer, pages});
     const savedBook = await newBook.save();
-    res
-      .status(200)
-      .json({ message: "New Book added successfully!", savedBook });
+    res.status(200).json({ message: "New Book added successfully!", savedBook });
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: error.message });
@@ -82,12 +63,11 @@ const updateBookById = async (req, res) => {
 const deleteBook = async (req, res) => {
   try {
     const { id } = req.params;
-    const findBooks = await BooksModel.findById(id);
+    const findBooks = await BooksModel.findByIdAndDelete(id);
 
     if (findBooks == null) {
       return res.status(404).json({ message: `Book with id ${id} not found` })
     };
-    await findBooks.remove();
     res.status(200).json({ message: `Book with id ${id} was successfully deleted` });
   } catch (error) {
     res.status(500).json({ message: error.message });
