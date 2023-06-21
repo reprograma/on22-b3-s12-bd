@@ -4,7 +4,7 @@ const BookSchema = new mongoose.Schema (
     {
         _id: {
             type: mongoose.Schema.Types.ObjectId,
-            default: () => new mongoose.Types.ObjectId
+            default: () => new mongoose.Types.ObjectId()
         },
         title: {
             type: String,
