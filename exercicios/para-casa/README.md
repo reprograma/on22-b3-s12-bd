@@ -18,10 +18,23 @@ Oie bonitas, vamos lá:
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
-- [ ] Fiz o fork do repositório.
-- [ ] Clonei o fork na minha máquina (`git clone url-do-meu-fork`).
-- [ ] Resolvi o exercício.
-- [ ] Adicionei as mudanças. (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
-- [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](/exercicios/para-casa/instrucoes-pull-request.md).
+- [x] Fiz o fork do repositório.
+- [x] Clonei o fork na minha máquina (`git clone url-do-meu-fork`).
+- [x] Resolvi o exercício.
+- [x] Adicionei as mudanças. (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [x] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [x] Pushei os commits na minha branch (`git push origin nome-da-branch`)
+- [x] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](/exercicios/para-casa/instrucoes-pull-request.md).
+
+
+Resolução do exercício de casa:
+
+Entendi que Banco de Dados é como uma biblioteca, que funciona de forma digital e armazena dados, sejam eles sensíveis ou não, de acesso ao usuário.
+
+SQL é uma linguagem que trabalha com bancos de dados relacionais.
+
+NoSQL é um termo que geralmente representa bancos de dados não relacionais. Fornece um mecanismo de armazenamento e recuperação de dados.
+
+MongoDB: é um programa de banco de dados NoSQL, que usa documentos semelhantes a JSON com schemas.
+
+Me sinto com muita dificuldade pra entender Banco de Dados e MongoDB. Mas estou estudando por outros lugares, também.
