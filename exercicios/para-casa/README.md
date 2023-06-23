@@ -2,17 +2,8 @@
 
 ## Banco de Dados
 
-Oie bonitas, vamos lá:
-- Entre no arquivo do README, dentro da pasta principal (on19-tet-s12-bd) 
-- E responda COM SUAS PALAVRAS o que você entendeu da aula de sabado:
-  * pode usar girias, pajuba, aleatorias, trazer imagens... você escolhe
-  * pode ser sintese, textão, mapa conceitual... 
-  * me explique principalmente o que vocêentendeu de Banco de Dados, SQL, NoSQL e de Mongo
-  * caso queira pode me falar tambem onde teve mais duvidas e qual parte gostariam que eu revesse na semana 13  
-  obs: se quiser adicione um campo de observação sobre tematicas das ultimas semanas (de outras aulas) que voce teve mais dificuldade. Vamos revisa-las.
-
-  na quarta faremos uma atividade oral onde irei fazer perguntas para turma, nem todas precisam participar, mas eu adoraria se vocês participassem. POR FAVOR 
-
+O NoSQL é um banco de dados "não relacional", ou seja, ele armazena os dados sem precisar existir alguma relação entre esses dados.
+Resumidamente, a principal diferença entre banco de dados NoSQL e SQL é que no primeiro (NoSQL) toda a informçaõ é agrupada no mesmo registro. Já no segundo (SQL) é preciso ter um relacionamneto entre várias tabelas.
 
 ---
 
