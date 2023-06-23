@@ -2,6 +2,7 @@
 
 ## Banco de Dados
 
+O NoSQL é um banco de dados "não relacional", ou seja, ele armazena os dados sem precisar existir alguma relação entre esses dados.
 Resumidamente, a principal diferença entre banco de dados NoSQL e SQL é que no primeiro (NoSQL) toda a informçaõ é agrupada no mesmo registro. Já no segundo (SQL) é preciso ter um relacionamneto entre várias tabelas.
 
 ---
