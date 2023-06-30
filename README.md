@@ -267,3 +267,21 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+# Atividade Casa
+
+## MONGODB
+
+* É um dos bancos de dados NOSQL, como é orientado a documentos, funciona no formato chave-valor, utilizando o formato json.
+
+## Banco de Dados
+
+* É uma coleção de informações estruturadas, que através delas temos uma recuperação fácil dos dados, já que é utilizado para gerenciar grandes volumes de informações, por ser bastante organizada facilita nosso trabalho na hora de buscar, atualizar ou excluir um registro.
+
+## SQL
+
+* É uma linguagem de programação que é usada pra executar comandos em bancos de dados relacionais, em tabelas. Usada para acessar, consultar ou modificar os dados estruturais, é com ela que a gente conversa com o BD.
+
+## NOSQL
+
+* NOSQL significa não relacional, a diferença dele para o SQL é que um é relacional e trabalha com tabelas, enquanto no NOSQL todos os dados constam no mesmo registro, as databases não precisam serem parecidas entre si, além de permitir maior velocidade e flexibilidade na hora de armazenar e acessar dados não estruturados.
