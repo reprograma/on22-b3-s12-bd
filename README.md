@@ -267,3 +267,10 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+Aula de sabado: 
+Consegui reassistir a aula depois e a Gaia explicando é uma perfeição so que na pratica é um desafio... preciso praticar mais. 
+Banco de Dados: é pra gente chegar numa conclusão de uma informação e dados, um grupo de informaçoes organizados. 
+SQL: é uma linguagem muito usada no banco de dados de extrema importancia para manipular diversas funçoes. 
+NoSQL: é bastante confuso, não é necessariamente estruturada, e organizada, não é sempre relacionada com banco de dados. 
+
