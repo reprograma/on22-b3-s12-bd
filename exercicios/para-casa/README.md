@@ -25,3 +25,19 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
 - [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](/exercicios/para-casa/instrucoes-pull-request.md).
+
+
+-----------------------------------------------------------------------------------------
+## O QUE EU COMPREENDO DE:
+##  MongoDb 
+O mongo é um banco de dados orientado por documentos. Por ser orientado a documentos uma das suas característica é ser livre de esquemas, possui id unico e universal, que facilita a consulta, por conta dessa característica é chamado de NoSQL por não conter o SQL. 
+
+## Banco de dados 
+Banco de dados é uma coleção de dados organizados em tabelas (representando entidades) e nessas tabelas, as informações são dispostas com linhas e colunas. As tabelas podem ou não ter relacionamentos com outras tabelas.
+
+## SQL e NoSQL
+A principal diferença entre eles se dá pela disposição das informações, enquanto o NoSQL os dados são guardado/armazenados em tabelas sem relacionamentos, no SQL necessita do relacionamento entre tabelas usando chaves primárias e estrangeiras. 
+
+
+ 
+
