@@ -13,7 +13,7 @@ Oie bonitas, vamos lá:
 
   na quarta faremos uma atividade oral onde irei fazer perguntas para turma, nem todas precisam participar, mas eu adoraria se vocês participassem. POR FAVOR 
 
-
+ias: compreendi, mas acabei não fazendo junto por estar fazendo depois, um pouco receosa de não conseguir fazer na prática
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
