@@ -267,3 +267,12 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
 ##  Minhas redes sociais
  - [LINKEDIN](https://www.linkedin.com/in/gaia-maria/)
  - [GITHUB](https://github.com/Gaia-Maria)
+
+
+Banco de dados: é um conjunto de informações organizadas e estruturadas, normalmente armazenadas em um sistema computacional. Geralmente esse conjunto de dados é gerenciado através de um Sistema de Gerenciamento de Banco de Dados (DBMS), por exemplo PostgreeSQL e MySQL.
+
+SQL: é uma linguagem de programação que permite aos bancos de dados relacionais consultar, modificar, acrescentar dados e ainda definir níveis de permissão de acesso aos dados para determinados usuários.
+
+NoSQL: são bancos de dados não relacionais, quer dizer, não  armazena dados em tabelas mas sim em documentos, de forma mais flexível. Por isso permite que os dados sejam armaezanados de forma mais acessível ao usuário. Um exemplo de banco de dados não relacional é o MongoDB
+
+Mongo: é um banco de dados orientado a documentos. Foi pensado para trabalhar com grandes volumes de dados. Como a armazenagem de dados não é feita em forma da tabelas, não categorizado como NoSQL.
