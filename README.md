@@ -269,6 +269,10 @@ Oie bonitas, como sabem a tarefa mudou, então vamos lá:
  - [GITHUB](https://github.com/Gaia-Maria)
 
 
+## Tarefa de Casa
+
+Juliana da Silva
+
 Banco de dados: é um conjunto de informações organizadas e estruturadas, normalmente armazenadas em um sistema computacional. Geralmente esse conjunto de dados é gerenciado através de um Sistema de Gerenciamento de Banco de Dados (DBMS), por exemplo PostgreeSQL e MySQL.
 
 SQL: é uma linguagem de programação que permite aos bancos de dados relacionais consultar, modificar, acrescentar dados e ainda definir níveis de permissão de acesso aos dados para determinados usuários.
